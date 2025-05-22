@@ -1,0 +1,21 @@
+Age,BMI,Fasting Glucose (mg/dL),HbA1c (%),Polyuria,Polydipsia,Blurred Vision,Fatigue,Unexplained Weight Loss,Class
+58,33.4,198,8.9,Yes,Yes,Yes,Yes,Yes,Diabetes
+62,34.2,210,9.1,Yes,Yes,Yes,Yes,Yes,Diabetes
+47,31.7,190,8.4,Yes,Yes,Yes,Yes,Yes,Diabetes
+55,32.9,202,8.8,Yes,Yes,Yes,Yes,Yes,Diabetes
+60,35.6,215,9.3,Yes,Yes,Yes,Yes,Yes,Diabetes
+66,36.1,225,9.5,Yes,Yes,Yes,Yes,Yes,Diabetes
+53,34.8,195,8.7,Yes,Yes,Yes,Yes,Yes,Diabetes
+59,33.9,200,8.6,Yes,Yes,Yes,Yes,Yes,Diabetes
+65,35.2,205,9.0,Yes,Yes,Yes,Yes,Yes,Diabetes
+61,34.0,212,9.2,Yes,Yes,Yes,Yes,Yes,Diabetes
+30,24.5,90,5.1,No,No,No,No,No,Non-Diabetic
+28,23.0,85,5.0,No,No,No,No,No,Non-Diabetic
+35,25.1,92,5.2,No,No,No,No,No,Non-Diabetic
+40,24.9,94,5.3,No,No,No,No,No,Non-Diabetic
+29,22.7,88,4.9,No,No,No,No,No,Non-Diabetic
+33,23.8,91,5.0,No,No,No,No,No,Non-Diabetic
+31,24.3,93,5.1,No,No,No,No,No,Non-Diabetic
+36,25.0,89,5.2,No,No,No,No,No,Non-Diabetic
+27,23.5,86,5.0,No,No,No,No,No,Non-Diabetic
+32,24.1,87,5.1,No,No,No,No,No,Non-Diabetic

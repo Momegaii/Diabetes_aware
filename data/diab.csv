@@ -1,0 +1,16 @@
+Age,BMI,Fasting Glucose (mg/dL),HbA1c (%),Polyuria,Polydipsia,Blurred Vision,Class
+45,32.0,185,8.2,Yes,Yes,Yes,Diabetes
+36,29.5,120,5.5,No,No,No,Non-Diabetic
+60,34.8,210,9.1,Yes,Yes,Yes,Diabetes
+52,28.0,95,5.3,No,No,No,Non-Diabetic
+48,31.5,200,8.6,Yes,Yes,Yes,Diabetes
+25,22.1,88,5.0,No,No,No,Non-Diabetic
+70,36.7,250,10.0,Yes,Yes,Yes,Diabetes
+42,27.2,110,5.4,No,No,No,Non-Diabetic
+55,33.3,190,8.0,Yes,Yes,Yes,Diabetes
+33,25.0,100,5.2,No,No,No,Non-Diabetic
+61,30.4,195,8.5,Yes,Yes,Yes,Diabetes
+40,28.6,105,5.1,No,No,No,Non-Diabetic
+57,35.0,215,9.3,Yes,Yes,Yes,Diabetes
+29,24.5,97,5.0,No,No,No,Non-Diabetic
+65,32.8,205,8.8,Yes,Yes,Yes,Diabetes
