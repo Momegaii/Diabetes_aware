@@ -37,6 +37,6 @@ def ui():
 		if preusrdiab2 == 0 : 
 			print("diabetes")
 		elif preusrdiab2 == 1  :
-			prin("normal")
-			
+			print("normal")
+				
 			
