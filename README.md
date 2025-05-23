@@ -1,4 +1,4 @@
-#All researches in this Module is for review , Depending on various Medlogic.
+# All researches in this Module is for review , Depending on various Medlogic.
 
 https://www.threads.com/@mohammad.masarweh/post/DJ7fBbAtRoZ?xmt=AQF04UpXEMuYG7hgcACMda9I1wB6AUH5RUGKOtBfVHTTIQ
 
@@ -6,7 +6,7 @@ https://www.threads.com/@mohammad.masarweh/post/DJ7fBbAtRoZ?xmt=AQF04UpXEMuYG7hg
 
 
 
-🧠 Early Symptoms of High Blood Glucose: Increased thirst (polydipsia)
+# 🧠 Early Symptoms of High Blood Glucose: Increased thirst (polydipsia)
 
 Frequent urination (polyuria)
 
@@ -18,7 +18,7 @@ Headache
 
 Trouble concentrating
 
-🍬 More Serious (Prolonged or Very High Glucose) Symptoms: Nausea and vomiting
+# 🍬 More Serious (Prolonged or Very High Glucose) Symptoms: Nausea and vomiting
 
 Abdominal pain
 
@@ -32,6 +32,6 @@ Confusion or difficulty staying awake (in severe cases)
 
 Unintentional weight loss (especially in type 1 diabetes)
 
-📈 Blood Sugar Ranges: Normal fasting: 70–99 mg/dL (3.9–5.5 mmol/L)
+# 📈 Blood Sugar Ranges: Normal fasting: 70–99 mg/dL (3.9–5.5 mmol/L)
 
 Hyperglycemia: typically over 130 mg/dL (7.2 mmol/L) fasting, or over 180 mg/dL (10 mmol/L) after meals
