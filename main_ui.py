@@ -1,7 +1,6 @@
 from models import * 
-import warnings 
-
-warnings.help()
+import warnings
+warnings.filterwarnings('ignore')
 
 def ui():
 	uin = input("Welcom to Ms20.sys for diabetes awarness ,please choose a service : type 1  for Glucose pred or type 2 for diabetes prediction")
@@ -40,3 +39,4 @@ def ui():
 			print("normal")
 				
 			
+ui()
